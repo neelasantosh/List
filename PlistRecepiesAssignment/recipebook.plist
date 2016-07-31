@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>calories</key>
+		<integer>5</integer>
+		<key>how_to_cook</key>
+		<string>On Stove</string>
+		<key>Ingredients</key>
+		<string>Tomatoes,Sugar,Milk</string>
+		<key>Image</key>
+		<string>tomato</string>
+		<key>Title</key>
+		<string>Tomato Receipe</string>
+		<key>recepe_no</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>calories</key>
+		<integer>6</integer>
+		<key>how_to_cook</key>
+		<string>On Hand</string>
+		<key>Ingredients</key>
+		<string>Badam,Milk,iceCreams</string>
+		<key>Image</key>
+		<string>badam</string>
+		<key>Title</key>
+		<string>Badam Shake Receipe</string>
+		<key>recepe_no</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>calories</key>
+		<integer>8</integer>
+		<key>how_to_cook</key>
+		<string>On Hand</string>
+		<key>Ingredients</key>
+		<string>Lemon,Water,Sugar</string>
+		<key>Image</key>
+		<string>lemon</string>
+		<key>Title</key>
+		<string>Lemon Drink</string>
+		<key>recepe_no</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>calories</key>
+		<integer>5</integer>
+		<key>how_to_cook</key>
+		<string>On Oven</string>
+		<key>Ingredients</key>
+		<string>Noodles,Carrot,Tomato</string>
+		<key>Image</key>
+		<string>noodles</string>
+		<key>Title</key>
+		<string>Noodles</string>
+		<key>recepe_no</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>calories</key>
+		<integer>0</integer>
+		<key>how_to_cook</key>
+		<string>On Oven</string>
+		<key>Ingredients</key>
+		<string>Corn Flakes,Milk,Ghee</string>
+		<key>Image</key>
+		<string>cornflake</string>
+		<key>Title</key>
+		<string>CornFlake</string>
+		<key>recepe_no</key>
+		<integer>5</integer>
+	</dict>
+</array>
+</plist>
